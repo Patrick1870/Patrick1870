@@ -1,7 +1,7 @@
 
 # Hello, I’m Patryk Adach ✈️
 
-💞️ Love science fiction and cosmos. Love creating rockets and rocket websites. Belive in Robert Monroe’s theory. 
+💞️ Love science fiction and cosmos. Love creating rockets and rocket websites. 
 
 🌱 Currently learning and mastering NextJS. 
 
