@@ -3,8 +3,6 @@
 
 💞️ Love science fiction and cosmos. Love creating rockets and rocket websites. 
 
-🌱 Currently learning and mastering NextJS. 
-
 ### Reach me at: 📫 patrykadachofficial@gmail.com
 
 <!---
